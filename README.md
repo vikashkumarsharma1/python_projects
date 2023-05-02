@@ -21,7 +21,7 @@ the availability of powerful libraries like Pandas, NumPy, and SciPy.
 Python has a large community: Python has a thriving community of developers and enthusiasts,
 which means that there are plenty of resources available online to help you learn and troubleshoot any issues you may encounter.
 
-When it comes to building projects and games with Python, there are a number of technologies that you may use, including:
+When it comes to building projects and games with Python, there are a number of technologies that I have  use, including:
 
 Tkinter: Tkinter is a built-in Python module that allows you to create GUI applications easily. It provides a set of widgets that you can use to build your interface.
 
